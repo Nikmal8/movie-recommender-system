@@ -2,6 +2,8 @@
 Welcome to my Project! This project showcases my skills, projects, and experiences as a Data Scientist.
 
 ### Demo: [See output](https://github.com/user-attachments/assets/14ab0545-075f-4fc4-943c-de018414ff2b)
+
+### Dataset: [Link](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 ## Some Images:
 <img width="450px;" src="https://github.com/user-attachments/assets/8975def5-e7ae-4681-be9d-783e9c23c5a1"/>
 <img width="450px;" src="https://github.com/user-attachments/assets/9180370c-2ed4-4bff-a1ce-15aa5e752004"/>
@@ -26,7 +28,7 @@ This project is a Movie Recommendation System that uses machine learning algorit
 - Interactive interface to get movie recommendations
 
 ## Technologies Used
-- ython
+- Python
 - Pandas (for data manipulation)
 - Scikit-learn (for machine learning models)
 - Surprise (for collaborative filtering algorithms)
@@ -42,7 +44,7 @@ https://github.com/Nikmal8/movie-recommender-system.git
 ```
 2. Navigate to the project directory: 
 ```bash
-`cd movie-recommender-system
+cd movie-recommender-system
 ```
 3. Install the dependencies: 
 ```bash
@@ -60,7 +62,7 @@ http://localhost:3000
 ## Usage
 - Run the main script:
 ```bash
-python main.py
+python app.py
 ```
 
 - Provide a movie name for 5 movies prediction.
